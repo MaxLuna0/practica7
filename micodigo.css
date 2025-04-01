@@ -1,0 +1,20 @@
+h1{color: brown;
+    font-size: 30px;
+    font-family: "Barriecito";}
+h2{
+    color:darkmagenta;
+    font-size: 30px;
+    font-family: "Bungee Shade";
+}
+    
+h4{color: darkgreen;
+    font-size: 30px;
+    font-family: "Caveat";}
+    
+body{background-color: red;}
+
+@media screen and (min-width: 600px){
+    body{
+        background-color: cyan;
+    }
+} 
